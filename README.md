@@ -21,7 +21,7 @@ I navigate complex regulatory landscapes (MDR 2017/745, ISO 13485, HIPAA, GDPR) 
 | Metric | Achievement |
 |--------|------------|
 | **$2M+** | Funding secured for Epic healthcare data extraction (Danish Board of Health approved) |
-| **98%** | Kidney tumor classification accuracy |
+| **90%** | Kidney tumor classification accuracy |
 | **60%** | Client profitability increase via AI-driven inventory optimization |
 | **35%** | Operational cost reduction |
 | **15+** | Production AI modules on GKE (FastAPI + ArgoCD) |
