@@ -57,9 +57,9 @@ Multi-tenant FastAPI platform on GKE with SARIMA/Prophet forecasting, menu engin
 Suite of production Model Context Protocol servers including Wateen operations (5 servers, 8,000+ LOC), Snowflake administration (55+ tools, 7,800+ LOC), and enterprise integrations (Elasticsearch, Keycloak, GCloud).
 
 ### 🤖 Multi-Agent Systems
-ChatDev (virtual software company with role-playing agents), Reachware AI Agents (production assistant, code generator, proposal evaluator), and 6-service food microservices with CrewAI + ChromaDB.
+ChatDev (virtual software company with role-playing agents) and 6-service food microservices with CrewAI + ChromaDB.
 
-### 🏗️ Construction AI — Silver Foundation
+### 🏗️ Construction AI
 12 specialized AI agents (EstimationBot, ContractReviewAI, BOQ generation from PDF/DWG/IFC) using FastAPI, Qdrant, MCP Protocol, and A2A agent interoperability.
 
 ### 🌐 Government AI Strategy — Syria
