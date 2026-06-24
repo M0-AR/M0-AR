@@ -47,7 +47,7 @@ I navigate complex regulatory landscapes (MDR 2017/745, ISO 13485, HIPAA, GDPR) 
 ### 🏥 AI Medical Device — Real-Time 3D Urological Diagnostics
 Integrated Ambu® aScope™4 Cysto with BNO055 orientation sensor for real-time cystoscope tracking mapped onto a 3D bladder model with color-coded navigation. Hardware-software system deployed on SmartScopePC (RTX 4090) with FastAPI microservice backend.
 
-### 🧠 Kidney & Bladder Tumor Detection (98% Accuracy)
+### 🧠 Kidney & Bladder Tumor Detection (90% Accuracy)
 Four AI models (classification, segmentation, localization, detection) deployed on DTU SuperComputer with automated Jenkins/Docker CI/CD pipeline integrating with Orthanc PACS via C-STORE SCU protocols.
 
 ### 🏪 Enterprise AI Platform — Wateen (14 Analytics Modules)
