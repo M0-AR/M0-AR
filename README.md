@@ -25,6 +25,7 @@ Software Engineer (DTU, Denmark) with 5+ years of experience spanning the full A
 | **90%** | Benign vs malignant kidney tumor classification |
 | **98%** | Kidney vs non-kidney detection |
 | **94%** | Four-class kidney classification (benign/malignant/normal/undefined) |
+| **90%+** | Bladder tumor detection — suspicious region detection in live video from cystoscope, deployed on Onyx device for real-time diagnosis |
 | **60%** | Client profitability increase via AI-driven inventory optimization |
 | **35%** | Operational cost reduction |
 | **15+** | Production AI modules on GKE (FastAPI + ArgoCD) |
