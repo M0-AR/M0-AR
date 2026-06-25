@@ -53,35 +53,57 @@ Software Engineer (DTU, Denmark) with 5+ years of experience spanning the full A
 #### 💰 AI-Powered Medical Data Extraction (Epic Scraping) — $2M+ Funding
 Spearheaded a 1.5-year collaborative project between RUC and DTU using RPA to extract and stabilize patient data from Epic Software. Modular Python architecture (PyAutoGUI, OpenCV, pytesseract) for screen scraping and OCR — approved by the Danish Board of Health. Automated upload to REDCap within HIPAA/GDPR/21 CFR Part 11 compliance. **Secured $2M+ in funding** to expand across Europe.
 
+`📦` [`screen_scraping`](https://github.com/M0-AR/screen_scraping)
+
 #### 🧠 LLM-Based Patient Data Processing
 Pipeline using GPT-4 and open-source LLMs (LLaMA) to process patient data extracted from healthcare systems. Generated clean structured Excel outputs, predicted patient risk percentages pre/post-operation, implemented RAG for local database Q&A, and built anonymization software (static + dynamic algorithms) for patient privacy before sending data to external models.
+
+`📦` [`hospital-data-engineering-RaD`](https://github.com/M0-AR/hospital-data-engineering-RaD)
 
 #### 🩺 Kidney Tumor AI Models (90–98% Accuracy)
 Four AI models deployed on **DTU SuperComputer**: (1) Kidney vs. Non-Kidney detection (98%), (2) Benign vs Malignant classification (90%), (3) Four-class classification — benign, malignant, normal, undefined (94%), (4) Localization/Segmentation (YOLOv8) + Tumor Detection. Automated Jenkins/Docker CI/CD pipeline (RCC_v2) integrating with Orthanc PACS via C-STORE SCU protocols. Multi-stage processing: Data Validation → DICOM to BMP → AI Classification → Cleaning → Segmentation. SNOMED/ICD code mapping from raw Excel exports for oncology metrics (TNM staging, ISUP grading).
 
+`📺` [`Project Demo`](https://drive.google.com/file/d/1q4cz56JW3sz2MfCTXTBdar8nlOCCATKq/view?usp=sharing) · `📐` [`System Design`](https://drive.google.com/file/d/1enZA6oFB8inEiY3tWXWocRSv43_mfY-s/view?usp=sharing) · `📄` [`Docs`](https://drive.google.com/file/d/1EkUQrtSaVp-b_5t220vCJOhajhAoG4uJ/view?usp=sharing) · `📦` [`DICOM Toolchain`](https://github.com/M0-AR/dicom) · [`Hospital UI`](https://github.com/M0-AR/hospital-ui)
+
 #### 🎥 AI Bladder Tumor Detection from Video
 Real-time AI system detecting bladder tumors from cystoscopic video footage using SSIM (Structural Similarity Index) for intelligent sub-sampling and KMeans Clustering for key frame extraction — eliminating redundancy while enabling urologists with actionable intra-procedure insights.
+
+`📦` [`Bladder Model`](https://github.com/M0-AR/bladder) · [`Video Extractor`](https://github.com/M0-AR/convert-video-to-3D-object)
 
 #### 🏥 Real-Time 3D Urological Diagnostics (Medical Device)
 Built a **medical device from scratch** integrating Ambu® aScope™4 Cysto with BNO055 orientation sensor for real-time cystoscope tracking mapped onto a 3D bladder model with color-coded navigation. SmartScopePC (AMD Ryzen 9 7950X, RTX 4090) for real-time inference. FastAPI microservice backend with client-server architecture enabling remote processing on DTU Supercomputer. **ISO 13485 / MDR 2017/745 compliant**.
 
+`📺` [`Project Demo`](https://drive.google.com/file/d/1LKfvnhTMRusQueeBcrkyU_ETn3eZr3wQ/view?usp=sharing) · `📄` [`Tracking Docs`](https://drive.google.com/file/d/1kU5_--KaxOlONskWTf81c5bvf-ixE0fD/view?usp=sharing) · [`Hardware Specs`](https://drive.google.com/file/d/1fVRyo8OkcCfObaBRoKpNmBOOf3aGUvgs/view?usp=sharing) · `📦` [`Stream Service`](https://github.com/M0-AR/stream_service) · [`Stream Client`](https://github.com/M0-AR/stream_client) · [`Web Integration`](https://github.com/M0-AR/merge_js_python_)
+
 #### ✋ SurgicalAir — Touchless Surgical Interface
 Touchless interface enabling surgeons to control operational equipment via hand gestures in the air, maintaining sterile field. Computer Vision pipeline (MediaPipe + OpenCV) for full hand/finger detection and gesture recognition. Kinematic logic using `np.arctan2` and Euclidean distance for sub-millimeter precision. Hardware Abstraction Layer (HAL) parsing IMU telemetry with BLE→WiFi 6 communication roadmap for zero-lag response.
+
+`📦` [`hand_fingers_tracking`](https://github.com/M0-AR/hand_fingers_tracking)
 
 #### 🔌 Embedded Systems & Hardware Manufacturing
 End-to-end PCBA process management with Eurocircuits (ODB++, CPL, BOM). AI-driven PCB design ecosystem using LLMs for component placement and routing optimization. Embedded firmware flashing (Atmel-ICE, Microchip Studio). LoRa→Azure Cloud IoT integration with real-time data visualization. Three-phase power system fault simulation for AI model testing.
 
+`📄` [`Hardware Docs`](https://drive.google.com/file/d/1g5FgFFGq7FDAQ5JZOr1gfwo9mh1FtrAE/view?usp=sharing) · [`PCBA Docs`](https://drive.google.com/file/d/1Zo7as4eEEyhLRfagvGr2QnT4SEpkv0v8/view?usp=sharing) · [`Firmware Docs`](https://drive.google.com/file/d/1Csn6vZAFvIIATcvlhPvVvRlqQJXnv-x2/view?usp=sharing) · `📦` [`AI Designer`](https://github.com/M0-AR/pcb-ai-designer) · [`PCB Design`](https://github.com/M0-AR/pcb_design)
+
 #### ✅ Regulatory Compliance & Medical Device Certification
 Class II Medical Device compliance (MDR 2017/745, ISO 13485, ISO 14971, FDA 21 CFR Part 820). Collaborated with Presafe Denmark A/S and Dansk Standard for CE Marking. AI integration strategy under EU Artificial Intelligence Act. Cost-benefit analysis for regulatory approval ($70K–$140K) and eQMS implementation.
 
+`📄` [`Compliance`](https://drive.google.com/file/d/12YUnleh65SQEtg2wXKrZoIS3VmgLvu3i/view?usp=sharing) · [`Certification`](https://drive.google.com/file/d/1ITc1dWgJngAWJVhlvWi2CgGHfwVpMv6J/view?usp=sharing)
+
 #### 🏢 VisionTechWave — Entrepreneurship
 Founded VisionTechWave in Denmark, driving AI and healthcare innovation. Directed RCC AI Intelligent Decision Support System for radiologists (Agile Sprint planning, full lifecycle from design to deployment).
+
+`📄` [`Business Docs`](https://drive.google.com/file/d/1k9cMv2D0TYLDmGCvfOldvnkPnxplwBGe/view?usp=sharing) · `📦` [`XRay Repo`](https://github.com/M0-AR/XRay)
 
 #### 🏠 Arked — Bachelor Project (Score: 12/12)
 Distinguished between house types from user-provided images using Computer Vision (SAM, Stable Diffusion). Later expanded to exterior facade design — detecting and replacing windows while preserving original view. **Achieved the highest score in the Danish system (12/12)**. [Demo](https://youtu.be/12zcDAHvOFY) · [Thesis](https://www.youtube.com/watch?v=JUSLCYDCZO4)
 
 #### 🔐 Cryptera A/S — Internship & Student Job
 Embedded device communication software in C++ (Linux-64bit/Windows-64bit), DLL libraries, TR31 secure key interchange, CMake, GDB debugging, Doxygen documentation, Jenkins CI/CD with Groovy. Developed mock testing framework for NUC management with pytest integration into Jenkins pipeline.
+
+`📄` [`Internship Doc`](https://drive.google.com/file/d/16RqHpEWeE9kp4-ph-TKisnx4AMVdzt3B/view?usp=sharing)
+
+*Side projects during this period:* `📦` [`ambassador-microservices-golang`](https://github.com/M0-AR/ambassador-microsevices-golang) (Golang, Microservices, K8s, Stripe) · [`KodeKloud Engineer`](https://github.com/M0-AR/DevOpsKodeKloud) · `📺` [`Demo`](https://youtu.be/K-8WkglDkBI)
 
 #### 🌐 Quantum AI — AI Solutions Platform
 [quantum-ai-web.netlify.app](https://quantum-ai-web.netlify.app/) — *"Building the Future with AI كوانتم"* — We design and deploy cutting-edge AI solutions that transform businesses, automate operations, and unlock unprecedented growth opportunities. [GitHub](https://github.com/M0-AR/quantum-ai-web)
@@ -112,8 +134,12 @@ ChatDev (virtual software company with role-playing agents), Reachware AI Agents
 #### 🌐 Government AI Strategy — Damascus Health Directorate
 Strategic advisor to the Directorate Head: AI readiness audits across public hospitals (Damascus Hospital, Al-Mowasat Hospital), ministry-level presentations on national AI adoption roadmap. Deployed bilingual (Arabic/English) administrative dashboard for **200+ employees across 22 facilities** with employee management, project oversight, real-time Plotly analytics, and operational alerts.
 
+`📄` [`Ministry AI Strategy Presentation`](https://drive.google.com/file/d/1lbxz3Uq6vWHw7lJjdyZQXEFDPX01WFr3/view?usp=sharing) · `🌐` [`Dashboard`](https://damascus-health-dashboard.streamlit.app/)
+
 #### 📚 AI Education & Mentorship
 Designed and delivered comprehensive AI curriculum. Trained **11 students** to full AI engineering proficiency. Mentored **2 high school students** to build a 90%+ accurate heart disease detection model. Founded mentorship program at Damascus University (50+ attendees per workshop). Workshops on Agentic AI, System Prompt Engineering, Full-Stack (React+AI), Back-End, and Mobile Development (Flutter & React Native).
+
+`📺` [`Course Instagram`](https://www.instagram.com/reel/DOlelIkDbkG/?igsh=MWtjd3NkZGlnNmd6dQ==) · [`Workshop Instagram`](https://www.instagram.com/p/DJt2onqsRbC/?igsh=dmVvMjl0bnNxNm96)
 
 ---
 
