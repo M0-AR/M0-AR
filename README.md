@@ -3,7 +3,7 @@
 **AI Engineer · Healthcare Tech · Enterprise Platforms**
 
 📍 Damascus, Syria · 📞 +963 997 300 716 · ✉️ mohamad.ashmar.ai@gmail.com  
-🔗 [GitHub](https://github.com/M0-AR) · [quantum-ai-web](https://github.com/M0-AR/quantum-ai-web)
+🔗 [GitHub](https://github.com/M0-AR) · [quantum-ai](https://quantum-ai-web.netlify.app/)
 
 Software Engineer (DTU, Denmark) with 5+ years of experience spanning the full AI lifecycle — from training models on hospital data and deploying on SuperComputer-DTU, to building hardware-software medical devices from scratch, to architecting multi-tenant enterprise platforms serving real users at scale. I've secured **$2M+ in funding** for a Danish Board of Health-approved data extraction project, delivered **15+ production AI modules** on GKE with ArgoCD GitOps, and driven measurable client impact including **60% profitability gains** and **35% cost reduction**. My work covers healthcare diagnostics (kidney/bladder tumor detection at 85–98% accuracy, real-time 3D urological devices), enterprise SaaS (14 analytics modules with SARIMA/Prophet forecasting, 10+ FastAPI microservices with circuit breakers and Redis Vector), LLM/RAG systems (GraphRAG, multi-agent architectures, 11+ MCP servers), embedded systems (PCBA validation, IoT-Azure integration), and governmental AI strategy (advising the Damascus Health Directorate on national AI adoption). I navigate complex regulatory landscapes including MDR 2017/745, ISO 13485, HIPAA, and GDPR, and have led cross-functional teams across **Denmark, Saudi Arabia, and Syria**.
 
@@ -81,6 +81,9 @@ Distinguished between house types from user-provided images using Computer Visio
 
 #### 🔐 Cryptera A/S — Internship & Student Job
 Embedded device communication software in C++ (Linux-64bit/Windows-64bit), DLL libraries, TR31 secure key interchange, CMake, GDB debugging, Doxygen documentation, Jenkins CI/CD with Groovy. Developed mock testing framework for NUC management with pytest integration into Jenkins pipeline.
+
+#### 🌐 Quantum AI — AI Solutions Platform
+[quantum-ai-web.netlify.app](https://quantum-ai-web.netlify.app/) — *"Building the Future with AI كوانتم"* — We design and deploy cutting-edge AI solutions that transform businesses, automate operations, and unlock unprecedented growth opportunities. [GitHub](https://github.com/M0-AR/quantum-ai-web)
 
 ---
 
