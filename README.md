@@ -48,7 +48,7 @@ Software Engineer (DTU, Denmark) with 5+ years of experience spanning the full A
 
 ## 🚀 Featured Projects
 
-### 🇩🇰 Denmark Projects (DTU & Regionsjaelland Hospital)
+### Denmark Projects (DTU & Regionsjaelland Hospital)
 
 #### 💰 AI-Powered Medical Data Extraction (Epic Scraping) — $2M+ Funding
 Spearheaded a 1.5-year collaborative project between RUC and DTU using RPA to extract and stabilize patient data from Epic Software. Modular Python architecture (PyAutoGUI, OpenCV, pytesseract) for screen scraping and OCR — approved by the Danish Board of Health. Automated upload to REDCap within HIPAA/GDPR/21 CFR Part 11 compliance. **Secured $2M+ in funding** to expand across Europe.
